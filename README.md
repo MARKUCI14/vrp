@@ -1,4 +1,4 @@
-# vrp
+# BSc Thesis - Application of Optimization Algorithms for Solving Vehicle Routing Problems
 
 ## Features
 - Web-based interface to define and visualize VRP instances.
