@@ -1,0 +1,9 @@
+[submodule "vrp-frontend"]
+	path = vrp-frontend
+	url = https://github.com/MARKUCI14/vrp-frontend.git
+[submodule "vrp-backend"]
+	path = vrp-backend
+	url = https://github.com/MARKUCI14/vrp-backend.git
+[submodule "vrp-solver"]
+	path = vrp-solver
+	url = https://gitlab.com/you/vrp-solver.git
