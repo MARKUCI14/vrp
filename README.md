@@ -1,4 +1,4 @@
-# vrp-backend
+# vrp
 
 ## Features
 - Web-based interface to define and visualize VRP instances.
