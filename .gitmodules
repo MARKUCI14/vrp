@@ -1,9 +1,13 @@
 [submodule "vrp-frontend"]
 	path = vrp-frontend
 	url = https://github.com/MARKUCI14/vrp-frontend.git
+	branch = main
 [submodule "vrp-backend"]
 	path = vrp-backend
 	url = https://github.com/MARKUCI14/vrp-backend.git
+	branch = main
 [submodule "vrp-solver"]
 	path = vrp-solver
 	url = https://github.com/MARKUCI14/vrp-solver.git
+	branch = main
+	
