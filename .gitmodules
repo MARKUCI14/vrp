@@ -6,4 +6,4 @@
 	url = https://github.com/MARKUCI14/vrp-backend.git
 [submodule "vrp-solver"]
 	path = vrp-solver
-	url = https://gitlab.com/you/vrp-solver.git
+	url = https://gitlab.com/MARKUCI14/vrp-solver.git
